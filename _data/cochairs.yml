@@ -1,0 +1,13 @@
+vijay:
+  name: "Vijay Ganesh"
+  url: "https://www.cc.gatech.edu/people/vijay-ganesh"
+  title: "Professor"
+  affiliation: "Georgia Tech"
+  img: "Vijay_photo_cropped.jpg"
+stefan:
+  name: "Stefan Szeider"
+  url: "https://www.ac.tuwien.ac.at/people/szeider/"
+  title: "Professor"
+  affiliation: "TU Wien"
+  img: "stefan-szeider.webp"
+  

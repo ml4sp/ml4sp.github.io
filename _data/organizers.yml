@@ -1,0 +1,24 @@
+vijay:
+  name: "Vijay Ganesh"
+  url: "https://www.cc.gatech.edu/people/vijay-ganesh"
+  title: "Professor"
+  affiliation: "Georgia Tech"
+  img: "Vijay_photo_cropped.jpg"
+stefan:
+  name: "Stefan Szeider"
+  url: "https://www.ac.tuwien.ac.at/people/szeider/"
+  title: "Professor"
+  affiliation: "TU Wien"
+  img: "stefan-szeider.webp"
+john:
+  name: "John Zhengyang Lu"
+  url: "https://johnlyu2.github.io/"
+  title: "PhD Student"
+  affiliation: "UWaterloo"
+  img: "John_photo_cropped.JPG"
+piyush:
+  name: "Piyush Jha"
+  url: "https://piyush-j.github.io/"
+  title: "PhD Student"
+  affiliation: "Georgia Tech"
+  img: "Piyush_photo.jpg"
