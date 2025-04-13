@@ -28,6 +28,8 @@ title: Machine Learning for Solvers and Provers (ML4SP)
   <a href="#organizers">Presenters</a> |
 </nav>
 
+<hr>
+
 # Co-chairs
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
@@ -68,6 +70,8 @@ Topics of interest include, but are not limited to, the use of various machine l
 - End-to-end learning for solvers and provers
 - Benchmark generation and instance hardness prediction
 - Applications of ML-enhanced reasoning in verification, synthesis, planning, and related areas
+
+<hr>
 
 # Organizers
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
