@@ -22,32 +22,11 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 <!-- <meta name="thumbnail" content="https://ml-for-solvers.github.io/img/aaai-small.jpeg" /> -->
 
 <nav>
-  <a href="#organizers">Presenters</a> |
   <a href="#co-chairs">Panelists</a> |
   <a href="#overview">Overview</a> |
   <a href="#scope">Schedule</a> |
+  <a href="#organizers">Presenters</a> |
 </nav>
-
-# Organizers
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <div class="row">
-    {% for p in site.data.organizers %}
-    {% if forloop.index<=5 %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
-  <div class="row">
-    {% for p in site.data.organizers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>5 and forloop.index<=10%}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
-</div>
-<hr>
 
 # Co-chairs
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
@@ -89,6 +68,27 @@ Topics of interest include, but are not limited to, the use of various machine l
 - End-to-end learning for solvers and provers
 - Benchmark generation and instance hardness prediction
 - Applications of ML-enhanced reasoning in verification, synthesis, planning, and related areas
+
+# Organizers
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  <div class="row">
+    {% for p in site.data.organizers %}
+    {% if forloop.index<=5 %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="row">
+    {% for p in site.data.organizers %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index>5 and forloop.index<=10%}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+<hr>
 
 <!-- 
 # Panelists
