@@ -7,7 +7,7 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 </div> -->
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong><a target="_blank" href="https://www.gla.ac.uk/">University of Glasgow in Glasgow</a>, Glasgow, Scotland</strong>
+  <strong><a target="_blank" href="https://www.gla.ac.uk/">University of Glasgow</a>, Glasgow, Scotland</strong>
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
