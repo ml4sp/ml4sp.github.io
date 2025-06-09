@@ -27,9 +27,9 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 
 <nav>
   <a href="#co-chairs">Panelists</a> |
+  <a href="#invited-talks">Invited Talks</a> |
   <a href="#overview">Overview</a> |
   <a href="#scope">Schedule</a> |
-  <a href="#invited-talks">Invited Talks</a> |
   <a href="#organizers">Presenters</a> |
 </nav>
 
@@ -74,6 +74,8 @@ title: Machine Learning for Solvers and Provers (ML4SP)
     {% endif %}
     {% endfor %}
   </div>
+</div>
+<hr>
 
 # Overview
 
