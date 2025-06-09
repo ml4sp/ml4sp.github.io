@@ -14,6 +14,10 @@ title: Machine Learning for Solvers and Provers (ML4SP)
   <strong>10 August 2025</strong>
 </div>
 
+<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <strong>Invited talks workshop</strong>
+</div>
+
 <!-- <div class="venue" style="font-size: 20px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TH24">(AAAI 2025 website)</a>
 </div> -->
@@ -25,6 +29,7 @@ title: Machine Learning for Solvers and Provers (ML4SP)
   <a href="#co-chairs">Panelists</a> |
   <a href="#overview">Overview</a> |
   <a href="#scope">Schedule</a> |
+  <a href="#invited-talks">Invited Talks</a> |
   <a href="#organizers">Presenters</a> |
 </nav>
 
@@ -50,6 +55,25 @@ title: Machine Learning for Solvers and Provers (ML4SP)
   </div>
 </div>
 <hr>
+
+# Invited Talks
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  <div class="row">
+    {% for p in site.data.invitedtalks %}
+    {% if forloop.index<=6 %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="row">
+    {% for p in site.data.invitedtalks %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index>6 and forloop.index<=10%}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
 
 # Overview
 

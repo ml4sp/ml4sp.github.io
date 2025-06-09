@@ -1,0 +1,18 @@
+nguyen:
+  name: "Nguyen Dang"
+  url: "https://sites.google.com/site/nguyenttdangxyz/"
+  title: "Leverhulme Early Career Fellow"
+  affiliation: "University of St Andrews"
+  img: "Nguyen_Dang_square.jpeg"
+bistra:
+  name: "Bistra Dilkina"
+  url: "https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra"
+  title: "Associate Professor"
+  affiliation: "University of Southern California"
+  img: "Bistra_Dilkina.png"
+martin:
+  name: "Martin Suda"
+  url: "https://people.ciirc.cvut.cz/~sudamar2/"
+  title: "Senior Researcher"
+  affiliation: "CTU/CIIRC"
+  img: "Martin_Suda_square.jpeg"
