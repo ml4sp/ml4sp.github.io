@@ -15,7 +15,7 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong>Invited talks workshop</strong>
+  <strong>Invited Talks Workshop</strong>
 </div>
 
 <!-- <div class="venue" style="font-size: 20px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
