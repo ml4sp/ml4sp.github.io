@@ -1,9 +1,3 @@
-nguyen:
-  name: "Nguyen Dang"
-  url: "https://sites.google.com/site/nguyenttdangxyz/"
-  title: "Leverhulme Early Career Fellow"
-  affiliation: "University of St Andrews"
-  img: "Nguyen_Dang_square.jpeg"
 bistra:
   name: "Bistra Dilkina"
   url: "https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra"
@@ -16,3 +10,15 @@ martin:
   title: "Senior Researcher"
   affiliation: "CTU/CIIRC"
   img: "Martin_Suda_square.jpeg"
+mikolas:
+  name: "Mikoláš Janota"
+  url: "https://people.ciirc.cvut.cz/~janotmik/"
+  title: "Senior Researcher"
+  affiliation: "CTU/CIIRC"
+  img: "Mikolas_Janota_square.webp"
+nguyen:
+  name: "Nguyen Dang"
+  url: "https://sites.google.com/site/nguyenttdangxyz/"
+  title: "Leverhulme Early Career Fellow"
+  affiliation: "University of St Andrews"
+  img: "Nguyen_Dang_square.jpeg"
