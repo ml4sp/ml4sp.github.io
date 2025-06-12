@@ -11,7 +11,7 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong>10 August 2025</strong>
+  <strong>Sunday, 10 August, 2025</strong>
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
