@@ -26,11 +26,13 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 <!-- <meta name="thumbnail" content="https://ml-for-solvers.github.io/img/aaai-small.jpeg" /> -->
 
 <nav>
-  <a href="#co-chairs">Panelists</a> |
+  <a href="#co-chairs">Co-chairs</a> |
   <a href="#invited-talks">Invited Talks</a> |
   <a href="#overview">Overview</a> |
-  <a href="#scope">Schedule</a> |
-  <a href="#organizers">Presenters</a> |
+  <a href="#schedule">Schedule</a> |
+  <a href="#talk-details">Talk Details</a> |
+  <a href="#scope">Scope</a> |
+  <a href="#organizers">Organizers</a> |
 </nav>
 
 <hr>
@@ -83,6 +85,51 @@ Learning and reasoning have been the two foundational pillars of AI since its in
 In particular, machine learning (ML) has had a substantial impact on SAT/SMT and CP solvers, as well as automated theorem provers. Recent advances have demonstrated the power of ML to inform solver heuristics, guide proof search, and optimize algorithm portfolios. 
 
 Despite growing interest in this direction, work on ML for solvers and provers is often scattered across multiple research communities — SAT, SMT, CP, theorem proving, formal methods, and machine learning - with few opportunities for focused interaction. This workshop aims to bring together researchers and practitioners working at the intersection of machine learning and formal reasoning systems. It provides a forum for the presentation of recent work, the exchange of ideas, and the fostering of collaboration between these communities.
+
+<hr>
+
+# Schedule
+
+| Time | Event | Speaker |
+|------|-------|---------|
+| 11:00 - 11:45 | Machine Learning Guidance for an Automatic Theorem Prover | Martin Suda |
+| 11:45 - 12:30 | Automated Streamliner Selection via Algorithm Configuration and Selection | Nguyen Dang |
+| 12:30 - 13:30 | Lunch Break | |
+| 13:30 - 14:15 | Machine Learning for Quantifiers | Mikoláš Janota |
+| 14:15 - 15:00 | TBD | Sean Holden |
+| 15:00 - 15:30 | Coffee Break | |
+| 15:30 - 16:15 | TBD | Bistra Dilkina |
+| 16:15 - 17:00 | Panel | |
+
+<hr>
+
+# Talk Details
+
+## Machine Learning Guidance for an Automatic Theorem Prover (Speaker: Martin Suda)
+
+In automatic theorem provers (ATPs) based on saturation---the predominant paradigm---the most promising applications of machine learning (ML) target the so-called clause selection heuristic, which helps decide which lemma to consider next for inference. The most promising systems in this category invariably learn from past successes: the lemmas that ultimately appeared in discovered proofs. In this talk, I will outline how such systems work, including those based on supervised learning and those inspired by reinforcement learning. I will also share general insights from my experience developing a neurally guided clause selection heuristic in the ATP Vampire.
+
+**Speaker Bio:**  
+Martin Suda is a senior researcher at the CIIRC institute of the Czech Technical University in Prague and the head of the Automated Reasoning Group there. His primary research interest is automated theorem proving and how it can be boosted through the techniques of machine learning. He is one of the main developers of the award-winning automatic theorem prover Vampire.
+
+## Automated Streamliner Selection via Algorithm Configuration and Selection (Speaker: Nguyen Dang)
+
+Many algorithms have parameters that can significantly impact their performance. Automated algorithm configuration is a family of general-purpose techniques aimed at finding the best parameter setting of an algorithm on a given problem. Automated algorithm selection, a closely related area, focuses on selecting the best algorithm among a given set of algorithms for a specific instance of a problem. Owing to their general-purpose nature, these techniques are broadly applicable across a wide range of domains. In this talk, I will present our work on combining algorithm configuration and algorithm selection to automate the generation and selection of streamliner constraints. Streamliners are heuristic constraints added to a constraint model to reduce the search space, resulting in solving speedup. However, since streamliners do not preserve correctness, they must be selected carefully to avoid pruning valid solutions. Our empirical results indicate the effectiveness of our approach where substantial solving speed up is achieved in various cases.
+
+**Speaker Bio:**  
+Nguyen Dang is a Lecturer (Assistant Professor) at the University of St Andrews. She received a PhD degree from KU Leuven in 2018 and was awarded a Leverhulme Early Career fellowship in 2020. Her research interests include automated algorithm configuration, automated algorithm selection, as well as their applications in both constraint programming and black-box optimisation. Her work in automated algorithm configuration has received best paper awards at GECCO'2017 and GECCO'2022, and nominations for best paper award at FOGA'2023 and GECCO'2025.
+
+## Machine Learning for Quantifiers (Speaker: Mikoláš Janota)
+
+Reasoning with quantifiers is inherently difficult. Adding quantifiers to a language typically significantly increases its computational complexity or leads to undecidability. Yet, quantifiers enable us to express properties over large or infinite domains. In this talk we will look at ML techniques that attempt to help automated reasoning with quantifiers. We will focus mainly on Quantified Boolean Formulas and Satisfiability Modulo Theories, where quantifiers are tackled by instantiation-based techniques.
+
+**Speaker Bio:**  
+Mikoláš Janota is a researcher at the Czech Institute of Informatics, Robotics and Cybernetics (CIIRC) at the Czech Technical University in Prague, where he leads the Formal Methods group. His work focuses on automated reasoning, formal verification, and logic-based problem solving, including SAT, MaxSAT, QBF, and SMT. He has contributed to tools like Z3 and developed award-winning solvers such as RAReQS and QESTO. With a background spanning Charles University, University College Dublin, and postdoctoral roles in Portugal and the UK, he currently explores the integration of machine learning with logic solvers under an ERC CZ grant.
+
+## Title TBD (Speaker: Sean Holden)
+
+**Speaker Bio:**  
+Sean Holden is University Associate Professor of Computer Science at the University of Cambridge, and Director of Studies in Computing at Trinity College, Cambridge. He has published in various areas of theoretical and applied machine learning, including computational learning theory, Bayesian inference and applications in drug design, sports science, wearable computing and organelle proteomics. He currently works on machine learning for automated theorem proving, and is responsible for the Connect++ connection prover.
 
 <hr>
 
