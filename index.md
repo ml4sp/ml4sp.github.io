@@ -96,9 +96,9 @@ Despite growing interest in this direction, work on ML for solvers and provers i
 | 11:45 - 12:30 | Automated Streamliner Selection via Algorithm Configuration and Selection | Nguyen Dang |
 | 12:30 - 13:30 | Lunch Break | |
 | 13:30 - 14:15 | Machine Learning for Quantifiers | Mikoláš Janota |
-| 14:15 - 15:00 | TBD | Sean Holden |
+| 14:15 - 15:00 | Applying Machine Learning to Improve SAT Solvers: Some Highlights | Sean Holden |
 | 15:00 - 15:30 | Coffee Break | |
-| 15:30 - 16:15 | TBD | Bistra Dilkina |
+| 15:30 - 16:15 | ML-guided search for Mixed Integer Linear Programming | Bistra Dilkina |
 | 16:15 - 17:00 | Panel | |
 
 <hr>
@@ -129,11 +129,22 @@ Reasoning with quantifiers is inherently difficult. Adding quantifiers to a lang
 **Speaker Bio:**  
 Mikoláš Janota is a researcher at the Czech Institute of Informatics, Robotics and Cybernetics (CIIRC) at the Czech Technical University in Prague, where he leads the Formal Methods group. His work focuses on automated reasoning, formal verification, and logic-based problem solving, including SAT, MaxSAT, QBF, and SMT. He has contributed to tools like Z3 and developed award-winning solvers such as RAReQS and QESTO. With a background spanning Charles University, University College Dublin, and postdoctoral roles in Portugal and the UK, he currently explores the integration of machine learning with logic solvers under an ERC CZ grant.
 
-## Title TBD
+## Applying Machine Learning to Improve SAT Solvers: Some Highlights
 *Speaker: Sean Holden*
+
+Abstract TBD
 
 **Speaker Bio:**  
 Sean Holden is University Associate Professor of Computer Science at the University of Cambridge, and Director of Studies in Computing at Trinity College, Cambridge. He has published in various areas of theoretical and applied machine learning, including computational learning theory, Bayesian inference and applications in drug design, sports science, wearable computing and organelle proteomics. He currently works on machine learning for automated theorem proving, and is responsible for the Connect++ connection prover.
+
+## ML-guided search for Mixed Integer Linear Programming
+*Speaker: Bistra Dilkina*
+
+Many real-world applications that require combinatorial optimization involve solving repeatedly similar instances of the same problem over different data (objective and constraint coefficients). Hence, they provide the opportunity to learn to search more effectively by leveraging historical instances. We design approaches to effectively augment established state-of-the-art Mixed Integer Linear programming (MILP) solvers with ML-guided components to significantly improve performance. In particular, many important (heuristic) tasks in MILP solving involve choosing subsets of variables, and we demonstrate that Contrastive Loss is particularly well-suited for training in this setting by learning from both positive and negative examples of candidate sets. We will further discuss the potential of learning across multiple domains when historical examples are limited, and the impressive power of multi-task learning across different ML-guided solving techniques for any given problem domain, setting a key stepping stone to a foundation model for ML-guided MILP solving.
+
+**Speaker Bio:**
+Dr. Bistra Dilkina is an associate professor of computer science at the University of Southern California (USC), co-director of the USC Center of AI in Society, and leads the USC Site for the NSF AI Institute for Advances in Optimization (AI4OPT). Her research and teaching are centered around the integration of machine learning and discrete optimization, with a strong focus on AI applications in computational sustainability and social impact, such as wildlife conservation and disaster resilience. Her research has contributed significant advances to machine-learning-guided combinatorial solving, including mathematical programming and AI planning, as well as to decision-focused learning, where combinatorial reasoning is integrated into machine-learning pipelines. 
+
 
 <hr>
 

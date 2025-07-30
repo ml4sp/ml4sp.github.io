@@ -1,30 +1,30 @@
-bistra:
-  name: "Bistra Dilkina"
-  url: "https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra"
-  title: "Associate Professor"
-  affiliation: "University of Southern California"
-  img: "Bistra_Dilkina.png"
 martin:
   name: "Martin Suda"
   url: "https://people.ciirc.cvut.cz/~sudamar2/"
   title: "Senior Researcher"
   affiliation: "CTU/CIIRC"
   img: "Martin_Suda_square.jpeg"
+nguyen:
+  name: "Nguyen Dang"
+  url: "https://ndangtt.github.io/"
+  title: "Assistant Professor"
+  affiliation: "University of St Andrews"
+  img: "Nguyen_Dang_square.jpeg"
 mikolas:
   name: "Mikoláš Janota"
   url: "https://people.ciirc.cvut.cz/~janotmik/"
   title: "Senior Researcher"
   affiliation: "CTU/CIIRC"
   img: "Mikolas_Janota_square.webp"
-nguyen:
-  name: "Nguyen Dang"
-  url: "https://sites.google.com/site/nguyenttdangxyz/"
-  title: "Leverhulme Early Career Fellow"
-  affiliation: "University of St Andrews"
-  img: "Nguyen_Dang_square.jpeg"
 sean:
   name: "Sean Holden"
   url: https://www.cl.cam.ac.uk/~sbh11/
   title: "University Associate Professor"
   affiliation: "University of Cambridge"
   img: "Sean_Holden_square.jpg"
+bistra:
+  name: "Bistra Dilkina"
+  url: "https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra"
+  title: "Associate Professor"
+  affiliation: "University of Southern California"
+  img: "Bistra_Dilkina.png"
