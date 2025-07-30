@@ -92,13 +92,13 @@ Despite growing interest in this direction, work on ML for solvers and provers i
 
 | Time | Event | Speaker |
 |------|-------|---------|
-| 11:00 - 11:45 | Machine Learning Guidance for an Automatic Theorem Prover | Martin Suda |
-| 11:45 - 12:30 | Automated Streamliner Selection via Algorithm Configuration and Selection | Nguyen Dang |
+| 11:00 - 11:45 | [Machine Learning Guidance for an Automatic Theorem Prover](#machine-learning-guidance-for-an-automatic-theorem-prover) | Martin Suda |
+| 11:45 - 12:30 | [Automated Streamliner Selection via Algorithm Configuration and Selection](#automated-streamliner-selection-via-algorithm-configuration-and-selection) | Nguyen Dang |
 | 12:30 - 13:30 | Lunch Break | |
-| 13:30 - 14:15 | Machine Learning for Quantifiers | Mikoláš Janota |
-| 14:15 - 15:00 | Applying Machine Learning to Improve SAT Solvers: Some Highlights | Sean Holden |
+| 13:30 - 14:15 | [Machine Learning for Quantifiers](#machine-learning-for-quantifiers) | Mikoláš Janota |
+| 14:15 - 15:00 | [Applying Machine Learning to Improve SAT Solvers: Some Highlights](#applying-machine-learning-to-improve-sat-solvers-some-highlights) | Sean Holden |
 | 15:00 - 15:30 | Coffee Break | |
-| 15:30 - 16:15 | ML-guided search for Mixed Integer Linear Programming | Bistra Dilkina |
+| 15:30 - 16:15 | [ML-guided search for Mixed Integer Linear Programming](#ml-guided-search-for-mixed-integer-linear-programming) | Bistra Dilkina |
 | 16:15 - 17:00 | Panel | |
 
 <hr>
