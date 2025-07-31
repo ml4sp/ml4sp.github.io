@@ -99,7 +99,7 @@ Despite growing interest in this direction, work on ML for solvers and provers i
 | 14:15 - 15:00 | [Applying Machine Learning to Improve SAT Solvers: Some Highlights](#applying-machine-learning-to-improve-sat-solvers-some-highlights) | Sean Holden |
 | 15:00 - 15:30 | Coffee Break | |
 | 15:30 - 16:15 | [ML-guided search for Mixed Integer Linear Programming](#ml-guided-search-for-mixed-integer-linear-programming) | Bistra Dilkina |
-| 16:15 - 17:00 | Panel | |
+| 16:15 - 17:00 | **Panel:** The Future of ML and LLMs for Solvers/Provers | **Panelists:** Nguyen Dang, Sean Holden, Mikoláš Janota, Martin Suda, Stefan Szeider<br>**Moderator:** Vijay Ganesh |
 
 <hr>
 
