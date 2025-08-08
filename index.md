@@ -7,11 +7,15 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 </div> -->
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong><a target="_blank" href="https://www.gla.ac.uk/">University of Glasgow</a>, Glasgow, Scotland</strong>
+  <strong>JMS 630 (please watch for possible last-minute room changes onsite), James McCune Smith Learning Hub, <a target="_blank" href="https://www.gla.ac.uk/">University of Glasgow</a>, Glasgow, Scotland</strong>
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <strong>Sunday, 10 August, 2025</strong>
+</div>
+
+<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <strong>11 AM to 5 PM</strong>
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
@@ -132,7 +136,7 @@ Mikoláš Janota is a researcher at the Czech Institute of Informatics, Robotics
 ## Applying Machine Learning to Improve SAT Solvers: Some Highlights
 *Speaker: [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/)*
 
-Abstract TBD
+Modern state-of-the-art SAT-solvers rely on numerous sophisticated data-structures and algorithms to achieve their performance. Several of the algorithms involved can be considered machine learning algorithms, and in recent years a great deal of effort has been focused on using machine learning directly to improve the performance of SAT solvers. This talk will present a selection of highlights from research in this area.
 
 **Speaker Bio:**  
 Sean Holden is University Associate Professor of Computer Science at the University of Cambridge, and Director of Studies in Computing at Trinity College, Cambridge. He has published in various areas of theoretical and applied machine learning, including computational learning theory, Bayesian inference and applications in drug design, sports science, wearable computing and organelle proteomics. He currently works on machine learning for automated theorem proving, and is responsible for the Connect++ connection prover.
