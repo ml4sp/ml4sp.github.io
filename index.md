@@ -7,7 +7,11 @@ title: Machine Learning for Solvers and Provers (ML4SP)
 </div> -->
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong>JMS 630 (please watch for possible last-minute room changes onsite), James McCune Smith Learning Hub, <a target="_blank" href="https://www.gla.ac.uk/">University of Glasgow</a>, Glasgow, Scotland</strong>
+  <strong>JMS 630 (please watch for possible last-minute room changes onsite)</strong>
+</div>
+
+<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <strong>James McCune Smith Learning Hub, <a target="_blank" href="https://www.gla.ac.uk/">University of Glasgow</a>, Glasgow, Scotland</strong>
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
