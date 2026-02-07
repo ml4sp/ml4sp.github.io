@@ -81,7 +81,7 @@ All submissions will be reviewed by the PC members. A presentation time slot wil
 
 # Dates
 
-- Submission deadline: 15 May 2026 (AoE)
+- Submission deadline: **15 May 2026 (AoE)**
 - Result notification: 25 May 2026
 - Camera ready: 2 July 2026
 - Workshop day: 18 July 2026
