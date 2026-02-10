@@ -42,6 +42,7 @@ title: 2nd Workshop on Machine Learning on Solvers and Provers (ML4SP)
   <a href="#registration">Registration</a> |
   <a href="#invited-talks">Invited Talks</a> | 
   <a href="#schedule">Schedule</a> |
+  <a href="#pc">Program Committee</a> |
   <a href="#organizers">Organizers</a>
 </nav>
 
@@ -133,6 +134,12 @@ TBA
 | 15:00 - 15:30 | Coffee Break | |
 | 15:30 - 16:15 | [ML-guided search for Mixed Integer Linear Programming](#ml-guided-search-for-mixed-integer-linear-programming) | Bistra Dilkina |
 | 16:15 - 17:00 | **Panel:** Future of Machine Learning for Solvers/Provers | **Panelists:** Nguyen Dang, Sean Holden, Mikoláš Janota, Martin Suda, Stefan Szeider<br>**Moderator:** Vijay Ganesh | -->
+
+<hr>
+
+# Program Committee
+
+TBA
 
 <hr>
 
