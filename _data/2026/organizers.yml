@@ -1,12 +1,12 @@
 vijay:
   name: "Vijay Ganesh"
   url: "https://www.cc.gatech.edu/people/vijay-ganesh"
-  title: "Professor"
-  affiliation: "Georgia Tech"
+  #title: "Professor"
+  affiliation: "Georgia Institute of Technology"
   img: "Vijay_photo_cropped.jpg"
 nguyen:
   name: "Nguyen Dang"
   url: "https://ndangtt.github.io/"
-  title: "Lecturer (Assistant Professor)"
+  #title: "Lecturer (Assistant Professor)"
   affiliation: "University of St Andrews"
   img: "Nguyen_Dang_square.jpeg"

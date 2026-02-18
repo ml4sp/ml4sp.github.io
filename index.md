@@ -139,7 +139,35 @@ TBA
 
 # Program Committee
 
-TBA
+<!-- * **Dimos Tsouros** (University of Western Macedonia)
+* **Felix Ulrich-Oltean** (University of York)
+* **Lars Kotthoff** (University of St Andrews)
+* **Martin Suda** (Czech Technical University)
+* **Mikoláš Janota** (Czech Technical University)
+* **Pascal Fontaine** (LORIA, INRIA, Université de Lorraine)
+* **Peter Nightingale** (University of York)
+* **Quentin Cappart** (Polytechnique Montréal)
+* **Sean Holden** (Cambridge University)
+* **Wuyang Chen** (Simon Fraser University) -->
+
+*(Full PC list to be updated soon)*
+
+| **Vijay Ganesh** (chair) | Georgia Institute of Technology |
+| **Nguyen Dang** (chair) | University of St Andrews |
+| **Quentin Cappart** | Polytechnique Montréal |
+| **Wuyang Chen** | Simon Fraser University |
+| **Pascal Fontaine** | LORIA, INRIA, Université de Lorraine |
+| **Sean Holden** | Cambridge University |
+| **Mikoláš Janota** | Czech Technical University |
+| **Lars Kotthoff** | University of St Andrews |
+| **Peter Nightingale** | University of York |
+| **Martin Suda** | Czech Technical University |
+| **Dimos Tsouros** | University of Western Macedonia |
+| **Felix Ulrich-Oltean** | University of York |
+
+
+
+
 
 <hr>
 
