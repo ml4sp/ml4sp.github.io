@@ -42,7 +42,7 @@ title: 2nd Workshop on Machine Learning on Solvers and Provers (ML4SP)
   <a href="#registration">Registration</a> |
   <a href="#invited-talks">Invited Talks</a> | 
   <a href="#schedule">Schedule</a> |
-  <a href="#pc">Program Committee</a> |
+  <a href="#programme-committee">Program Committee</a> |
   <a href="#organizers">Organizers</a>
 </nav>
 
@@ -139,24 +139,12 @@ TBA
 
 # Program Committee
 
-<!-- * **Dimos Tsouros** (University of Western Macedonia)
-* **Felix Ulrich-Oltean** (University of York)
-* **Lars Kotthoff** (University of St Andrews)
-* **Martin Suda** (Czech Technical University)
-* **Mikoláš Janota** (Czech Technical University)
-* **Pascal Fontaine** (LORIA, INRIA, Université de Lorraine)
-* **Peter Nightingale** (University of York)
-* **Quentin Cappart** (Polytechnique Montréal)
-* **Sean Holden** (Cambridge University)
-* **Wuyang Chen** (Simon Fraser University) -->
-
-*(Full PC list to be updated soon)*
-
 | **Vijay Ganesh** (chair) | Georgia Institute of Technology |
 | **Nguyen Dang** (chair) | University of St Andrews |
 | **Quentin Cappart** | Polytechnique Montréal |
 | **Wuyang Chen** | Simon Fraser University |
 | **Pascal Fontaine** | LORIA, INRIA, Université de Lorraine |
+| **Guy Katz** |	The Hebrew University of Jerusalem |
 | **Sean Holden** | Cambridge University |
 | **Mikoláš Janota** | Czech Technical University |
 | **Lars Kotthoff** | University of St Andrews |
@@ -164,10 +152,6 @@ TBA
 | **Martin Suda** | Czech Technical University |
 | **Dimos Tsouros** | University of Western Macedonia |
 | **Felix Ulrich-Oltean** | University of York |
-
-
-
-
 
 <hr>
 
