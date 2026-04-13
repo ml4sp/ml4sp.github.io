@@ -114,7 +114,7 @@ Despite growing interest in this direction, work on ML for solvers and provers i
 # Talk Details
 
 ## Machine Learning Guidance for an Automatic Theorem Prover
-*Speaker: [Martin Suda](https://people.ciirc.cvut.cz/~sudamar2/)* | [**Slides**](slides/2025/Suda.pdf)
+*Speaker: [Martin Suda](https://people.ciirc.cvut.cz/~sudamar2/)* | [**Slides**](../slides/2025/Suda.pdf)
 
 In automatic theorem provers (ATPs) based on saturation---the predominant paradigm---the most promising applications of machine learning (ML) target the so-called clause selection heuristic, which helps decide which lemma to consider next for inference. The most promising systems in this category invariably learn from past successes: the lemmas that ultimately appeared in discovered proofs. In this talk, I will outline how such systems work, including those based on supervised learning and those inspired by reinforcement learning. I will also share general insights from my experience developing a neurally guided clause selection heuristic in the ATP Vampire.
 
@@ -130,7 +130,7 @@ Many algorithms have parameters that can significantly impact their performance.
 Nguyen Dang is a Lecturer (Assistant Professor) at the University of St Andrews. She received a PhD degree from KU Leuven in 2018 and was awarded a Leverhulme Early Career fellowship in 2020. Her research interests include automated algorithm configuration, automated algorithm selection, as well as their applications in both constraint programming and black-box optimisation. Her work in automated algorithm configuration has received best paper awards at GECCO'2017 and GECCO'2022, and nominations for best paper award at FOGA'2023 and GECCO'2025.
 
 ## Machine Learning for Quantifiers
-*Speaker: [Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/)* | [**Slides**](slides/2025/Janota.pdf)
+*Speaker: [Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/)* | [**Slides**](../slides/2025/Janota.pdf)
 
 Reasoning with quantifiers is inherently difficult. Adding quantifiers to a language typically significantly increases its computational complexity or leads to undecidability. Yet, quantifiers enable us to express properties over large or infinite domains. In this talk we will look at ML techniques that attempt to help automated reasoning with quantifiers. We will focus mainly on Quantified Boolean Formulas and Satisfiability Modulo Theories, where quantifiers are tackled by instantiation-based techniques.
 
@@ -138,7 +138,7 @@ Reasoning with quantifiers is inherently difficult. Adding quantifiers to a lang
 Mikoláš Janota is a researcher at the Czech Institute of Informatics, Robotics and Cybernetics (CIIRC) at the Czech Technical University in Prague, where he leads the Formal Methods group. His work focuses on automated reasoning, formal verification, and logic-based problem solving, including SAT, MaxSAT, QBF, and SMT. He has contributed to tools like Z3 and developed award-winning solvers such as RAReQS and QESTO. With a background spanning Charles University, University College Dublin, and postdoctoral roles in Portugal and the UK, he currently explores the integration of machine learning with logic solvers under an ERC CZ grant.
 
 ## Applying Machine Learning to Improve SAT Solvers: Some Highlights
-*Speaker: [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/)* | [**Slides**](slides/2025/Holden.pdf)
+*Speaker: [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/)* | [**Slides**](../slides/2025/Holden.pdf)
 
 Modern state-of-the-art SAT-solvers rely on numerous sophisticated data-structures and algorithms to achieve their performance. Several of the algorithms involved can be considered machine learning algorithms, and in recent years a great deal of effort has been focused on using machine learning directly to improve the performance of SAT solvers. This talk will present a selection of highlights from research in this area.
 
@@ -146,7 +146,7 @@ Modern state-of-the-art SAT-solvers rely on numerous sophisticated data-structur
 Sean Holden is University Associate Professor of Computer Science at the University of Cambridge, and Director of Studies in Computing at Trinity College, Cambridge. He has published in various areas of theoretical and applied machine learning, including computational learning theory, Bayesian inference and applications in drug design, sports science, wearable computing and organelle proteomics. He currently works on machine learning for automated theorem proving, and is responsible for the Connect++ connection prover.
 
 ## ML-guided search for Mixed Integer Linear Programming
-*Speaker: [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra)* | [**Slides**](slides/2025/Dilkina.pdf)
+*Speaker: [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra)* | [**Slides**](../slides/2025/Dilkina.pdf)
 
 Many real-world applications that require combinatorial optimization involve solving repeatedly similar instances of the same problem over different data (objective and constraint coefficients). Hence, they provide the opportunity to learn to search more effectively by leveraging historical instances. We design approaches to effectively augment established state-of-the-art Mixed Integer Linear programming (MILP) solvers with ML-guided components to significantly improve performance. In particular, many important (heuristic) tasks in MILP solving involve choosing subsets of variables, and we demonstrate that Contrastive Loss is particularly well-suited for training in this setting by learning from both positive and negative examples of candidate sets. We will further discuss the potential of learning across multiple domains when historical examples are limited, and the impressive power of multi-task learning across different ML-guided solving techniques for any given problem domain, setting a key stepping stone to a foundation model for ML-guided MILP solving.
 
