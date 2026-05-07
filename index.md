@@ -142,7 +142,7 @@ TBA
 | **Vijay Ganesh** (chair) | Georgia Institute of Technology |
 | **Nguyen Dang** (chair) | University of St Andrews |
 | **Shaowei Cai** | Chinese Academy of Sciences |
-| **Quentin Cappart** | Polytechnique Montréal |
+| **Quentin Cappart** | UCLouvain and Polytechnique Montréal |
 | **Wuyang Chen** | Simon Fraser University |
 | **Pascal Fontaine** | LORIA, INRIA, Université de Lorraine |
 | **Guy Katz** |	The Hebrew University of Jerusalem |
