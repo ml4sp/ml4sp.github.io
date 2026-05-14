@@ -74,7 +74,7 @@ Submission should be in PDF form, following the [LIPIcs guidelines](https://subm
 - *Extended abstracts* (up to two pages, excluding references); or 
 - *Full papers* (up to 15 pages, excluding references). 
 
-All submissions will be reviewed by the PC members. A presentation time slot will be given to each accepted submission. 
+Submissions do not need to be anonymized. All submissions will be reviewed by the PC members. A presentation time slot will be given to each accepted submission. 
 
 **Submission link:** [https://submissions.floc26.org/ml4sp/](https://submissions.floc26.org/ml4sp/)
 
