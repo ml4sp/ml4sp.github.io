@@ -15,7 +15,7 @@ title: 2nd Workshop on Machine Learning on Solvers and Provers (ML4SP)
 </div>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong>As part of <a href="https://www.floc26.org/" style="color: #007bff; text-decoration: none;">FLoC 2026</a></strong>
+  <strong>As part of <a href="https://www.floc26.org/" target="_blank" rel="noopener noreferrer" style="color: #007bff; text-decoration: none;">FLoC 2026</a></strong>
 </div>
 
 <!-- <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
