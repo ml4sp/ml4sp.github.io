@@ -42,7 +42,7 @@ title: 2nd Workshop on Machine Learning on Solvers and Provers (ML4SP)
   <a href="#registration">Registration</a> |
   <a href="#invited-talks">Invited Talks</a> | 
   <a href="#schedule">Schedule</a> |
-  <a href="#programme-committee">Program Committee</a> |
+  <a href="#program-committee">Program Committee</a> |
   <a href="#organizers">Organizers</a>
 </nav>
 
