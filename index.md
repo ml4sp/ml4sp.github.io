@@ -98,7 +98,45 @@ Please register via [FLoC’26 registration page](https://www.floc26.org/registr
 
 # Invited Talks
 
-TBA
+<div class="container" markdown="1" style="margin-top: 20px;">
+
+<div class="row" style="margin-bottom: 40px;">
+<div class="col-xs-12 col-sm-3 text-center">
+<img src="{{ site.baseurl }}/img/federico_mora.jpg" alt="Federico Mora" class="img-circle" style="width: 180px; margin-bottom: 15px;" />
+</div>
+<div class="col-xs-12 col-sm-9" markdown="1">
+
+#### [Federico Mora](https://federico.morarocha.ca/)
+
+**Title and abstract:** TBA
+
+**Short bio:** Federico Mora is an incoming Assistant Professor at the University of Waterloo and Faculty Affiliate at the Vector Institute. His core research mission is to make verification of real-world systems practical at an industrial scale. In pursuit of this goal, Federico builds automated reasoning stacks — everything from SMT solvers to programming language interfaces — that combine the power and flexibility of artificial intelligence with the rigorous guarantees of formal methods.
+
+</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-sm-3 text-center">
+<img src="{{ site.baseurl }}/img/tias_guns.jpeg" alt="Tias Guns" class="img-circle" style="width: 180px; margin-bottom: 15px;" />
+</div>
+<div class="col-xs-12 col-sm-9" markdown="1">
+
+#### [Tias Guns](https://people.cs.kuleuven.be/~tias.guns/)
+
+**Title:** Human-Aware Technology for Combinatorial Optimisation
+
+**Abstract:** Combinatorial optimisation is widely used to solve scheduling, sequencing, rostering, routing and other assignment problems. The traditional paradigm is that of model+solve, where an expert user expresses their problem in constraints and a highly efficient solver searches for the optimal solution.
+Can we make this less static, and more centered around the decision maker? Adaptive, explainable, conversational?
+We'll highlight recent work in decision-focussed ML training over combinatorial problems, preference learning for combinatorial optimisation and explainable constraint solving, developed as part of Prof. Guns' ERC grant CHAT-Opt.
+
+**Short bio:** Tias Guns is Professor in Computer Science at the DTAI lab of KU Leuven, Belgium. Tias' expertise is in the hybridisation of machine learning systems with constraint solving systems, more specifically building constraint solving systems that reason both on explicit knowledge as well as knowledge learned from data. He aims to make constraint solving technology more accessible, as well as to make the technology more human-aware by learning from the daily operational environment and its users. He was awarded a prestigious ERC Consolidator grant in 2021 to work on conversational human-aware technology for optimisation, and currently leads a lab of 8 researchers.
+
+</div>
+</div>
+
+</div>
+
+<div style="clear: both;"></div>
 
 <!-- <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
@@ -122,7 +160,24 @@ TBA
 
 # Schedule
 
-TBA
+| Time | Title |
+|------|-------|
+| 09:30-10:30 | **Invited talk:** Federico Mora |
+| 10:30-11:00 | <span style="color:#b35c00;">**Coffee break**</span> |
+| 11:00-11:20 | **An LLM-based Recommendation System for PVS**<br>*Nikson Bernardes Fernandes Ferreira, Mariano Miguel Moscato, Mauricio Ayala-Rincon* |
+| 11:20-11:40 | **Neural Local Search Enhanced with Knowledge Compilation**<br>*Alexandre Dubray, Hélène Verhaeghe, Quentin Cappart, Siegfried Nijssen* |
+| 11:40-12:00 | **Algorithm Selection with Zero Domain Knowledge via Text Embeddings**<br>*Stefan Szeider* |
+| 12:00-12:20 | **Do LLMs Scale on Inductive Proofs? A Controlled Study of Elementary Arithmetical Proofs**<br>*Risako Ando, Koji Mineshima, Mitsuhiro Okada* |
+| 12:20-12:40 | **Learning Better Representations From Less Data For Propositional Satisfiability**<br>*Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner* |
+| 12:40-14:00 | <span style="color:#b35c00;">**Lunch**</span> |
+| 14:00-15:00 | **Invited talk:** Tias Guns<br>*Human-Aware Technology for Combinatorial Optimisation* |
+| 15:00-15:20 | **Predicting Assignments of MaxSAT Variables with Graph Neural Networks**<br>*Jonathan Oliva, Peter Nightingale, Felix Ulrich-Oltean* |
+| 15:20-15:40 | **Caching and Batching for Neural Clause Selection in Saturation-Based Theorem Proving**<br>*Alexander Pluska, Florian Zuleger* |
+| 15:40-16:10 | <span style="color:#b35c00;">**Coffee break**</span> |
+| 16:10-16:30 | **A priori knowledge for learning combinations of heuristics for CSPs**<br>*Anastasia Paparrizou, Michael Sioutis, Yoan Thomas, Christian Bessiere* |
+| 16:30-16:50 | **KissatEvolve: Controllable and Scalable Synthesis of SAT Heuristics with Densely Annotated Memory Bank**<br>*Meru Gopalan, Jialin Lu, Jialin Song, Shimin Zhang, Hieu Nguyen, Wuyang Chen, Vijay Ganesh* |
+| 16:50-17:10 | **Revealing the limits of Machine Learning for Satisfiability Testing: a dataset for learning minimal moves**<br>*Laurent Simon* |
+| 17:10-18:00 | <span style="color:#b35c00;">**Panel discussion**</span> |
 
 <!-- | Time | Event | Speaker |
 |------|-------|---------|
