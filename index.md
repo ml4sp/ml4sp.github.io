@@ -164,19 +164,19 @@ We'll highlight recent work in decision-focussed ML training over combinatorial 
 |------|-------|
 | 09:30-10:30 | **Invited talk:** Federico Mora |
 | 10:30-11:00 | <span style="color:#b35c00;">**Coffee break**</span> |
-| 11:00-11:20 | **An LLM-based Recommendation System for PVS**<br>*Nikson Bernardes Fernandes Ferreira, Mariano Miguel Moscato, Mauricio Ayala-Rincon* |
-| 11:20-11:40 | **Neural Local Search Enhanced with Knowledge Compilation**<br>*Alexandre Dubray, Hélène Verhaeghe, Quentin Cappart, Siegfried Nijssen* |
-| 11:40-12:00 | **Algorithm Selection with Zero Domain Knowledge via Text Embeddings**<br>*Stefan Szeider* |
-| 12:00-12:20 | **Do LLMs Scale on Inductive Proofs? A Controlled Study of Elementary Arithmetical Proofs**<br>*Risako Ando, Koji Mineshima, Mitsuhiro Okada* |
-| 12:20-12:40 | **Learning Better Representations From Less Data For Propositional Satisfiability**<br>*Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner* |
+| 11:00-11:20 | **An LLM-based Recommendation System for PVS** [[PDF]({{ site.baseurl }}/papers/2026/paper7.pdf)]<br>*Nikson Bernardes Fernandes Ferreira, Mariano Miguel Moscato, Mauricio Ayala-Rincon* |
+| 11:20-11:40 | **Neural Local Search Enhanced with Knowledge Compilation** [[PDF]({{ site.baseurl }}/papers/2026/paper4.pdf)]<br>*Alexandre Dubray, Hélène Verhaeghe, Quentin Cappart, Siegfried Nijssen* |
+| 11:40-12:00 | **Algorithm Selection with Zero Domain Knowledge via Text Embeddings** [[PDF]({{ site.baseurl }}/papers/2026/paper1.pdf)]<br>*Stefan Szeider* |
+| 12:00-12:20 | **Do LLMs Scale on Inductive Proofs? A Controlled Study of Elementary Arithmetical Proofs** [[PDF]({{ site.baseurl }}/papers/2026/paper11.pdf)]<br>*Risako Ando, Koji Mineshima, Mitsuhiro Okada* |
+| 12:20-12:40 | **Learning Better Representations From Less Data For Propositional Satisfiability** [[PDF]({{ site.baseurl }}/papers/2026/paper5.pdf)]<br>*Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner* |
 | 12:40-14:00 | <span style="color:#b35c00;">**Lunch**</span> |
 | 14:00-15:00 | **Invited talk:** Tias Guns<br>*Human-Aware Technology for Combinatorial Optimisation* |
-| 15:00-15:20 | **Predicting Assignments of MaxSAT Variables with Graph Neural Networks**<br>*Jonathan Oliva, Peter Nightingale, Felix Ulrich-Oltean* |
-| 15:20-15:40 | **Caching and Batching for Neural Clause Selection in Saturation-Based Theorem Proving**<br>*Alexander Pluska, Florian Zuleger* |
+| 15:00-15:20 | **Predicting Assignments of MaxSAT Variables with Graph Neural Networks** [[PDF]({{ site.baseurl }}/papers/2026/paper3.pdf)]<br>*Jonathan Oliva, Peter Nightingale, Felix Ulrich-Oltean* |
+| 15:20-15:40 | **Caching and Batching for Neural Clause Selection in Saturation-Based Theorem Proving** [[PDF]({{ site.baseurl }}/papers/2026/paper9.pdf)]<br>*Alexander Pluska, Florian Zuleger* |
 | 15:40-16:10 | <span style="color:#b35c00;">**Coffee break**</span> |
-| 16:10-16:30 | **A priori knowledge for learning combinations of heuristics for CSPs**<br>*Anastasia Paparrizou, Michael Sioutis, Yoan Thomas, Christian Bessiere* |
-| 16:30-16:50 | **KissatEvolve: Controllable and Scalable Synthesis of SAT Heuristics with Densely Annotated Memory Bank**<br>*Meru Gopalan, Jialin Lu, Jialin Song, Shimin Zhang, Hieu Nguyen, Wuyang Chen, Vijay Ganesh* |
-| 16:50-17:10 | **Revealing the limits of Machine Learning for Satisfiability Testing: a dataset for learning minimal moves**<br>*Laurent Simon* |
+| 16:10-16:30 | **A priori knowledge for learning combinations of heuristics for CSPs** [[PDF]({{ site.baseurl }}/papers/2026/paper8.pdf)]<br>*Anastasia Paparrizou, Michael Sioutis, Yoan Thomas, Christian Bessiere* |
+| 16:30-16:50 | **KissatEvolve: Controllable and Scalable Synthesis of SAT Heuristics with Densely Annotated Memory Bank** [[PDF]({{ site.baseurl }}/papers/2026/paper10.pdf)]<br>*Meru Gopalan, Jialin Lu, Jialin Song, Shimin Zhang, Hieu Nguyen, Wuyang Chen, Vijay Ganesh* |
+| 16:50-17:10 | **Revealing the limits of Machine Learning for Satisfiability Testing: a dataset for learning minimal moves** [[PDF]({{ site.baseurl }}/papers/2026/paper2.pdf)]<br>*Laurent Simon* |
 | 17:10-18:00 | <span style="color:#b35c00;">**Panel discussion**</span> |
 
 <!-- | Time | Event | Speaker |
