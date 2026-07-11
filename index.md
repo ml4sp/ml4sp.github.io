@@ -188,7 +188,7 @@ We'll highlight recent work in decision-focussed ML training over combinatorial 
 
 | Time | Title |
 |------|-------|
-| 09:30-10:30 | **Invited talk:** Federico Mora |
+| 09:30-10:30 | **Invited talk:** Federico Mora<br>*Machine Learning Across the Solver Stack* |
 | 10:30-11:00 | <span style="color:#b35c00;">**Coffee break**</span> |
 | 11:00-11:20 | **An LLM-based Recommendation System for PVS** [[PDF]({{ site.baseurl }}/papers/2026/paper7.pdf)]<br>*Nikson Bernardes Fernandes Ferreira, Mariano Miguel Moscato, Mauricio Ayala-Rincon* |
 | 11:20-11:40 | **Neural Local Search Enhanced with Knowledge Compilation** [[PDF]({{ site.baseurl }}/papers/2026/paper4.pdf)]<br>*Alexandre Dubray, Hélène Verhaeghe, Quentin Cappart, Siegfried Nijssen* |
