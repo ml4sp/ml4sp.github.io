@@ -108,9 +108,35 @@ Please register via [FLoC’26 registration page](https://www.floc26.org/registr
 
 #### [Federico Mora](https://federico.morarocha.ca/)
 
-**Title and abstract:** TBA
+**Title:** Machine Learning Across the Solver Stack
 
-**Short bio:** Federico Mora is an incoming Assistant Professor at the University of Waterloo and Faculty Affiliate at the Vector Institute. His core research mission is to make verification of real-world systems practical at an industrial scale. In pursuit of this goal, Federico builds automated reasoning stacks — everything from SMT solvers to programming language interfaces — that combine the power and flexibility of artificial intelligence with the rigorous guarantees of formal methods.
+**Abstract:** We use solvers every day to tackle intractable problems such as program
+verification, scheduling, and hardware super-optimization. Their success
+depends on developers who carefully construct solver stacks that translate
+domain-specific questions into logical queries suited to the underlying solving
+algorithms. Because these developers must be experts in both the application
+domain and solver technology, they are scarce, and solvers often fall short of
+their full potential.
+
+In this talk, I present ongoing work that combines machine learning and
+programming languages techniques to decouple the need for both solver expertise
+and domain expertise. Specifically, I describe a complete solver stack---from
+input language to solving algorithm and back again---for one domain and outline
+plans for generalizing this approach to new domains. The stack includes an
+eager satisfiability modulo theories solver and two machine learning components
+that reduce reliance on solver expert tuning. Together, these components are
+the first step toward my broader goal: solvers that can be adapted quickly to
+new application domains without solver expert involvement.
+
+
+**Short bio:** Federico Mora is an incoming Assistant Professor at the University of Waterloo
+and Faculty Affiliate at the Vector Institute. His core research mission is to
+make verification of real-world systems practical at an industrial scale. In
+pursuit of this goal, Federico builds automated reasoning stacks — everything
+from SMT solvers to programming language interfaces — that combine the power
+and flexibility of artificial intelligence with the rigorous guarantees of
+formal methods.
+
 
 </div>
 </div>
