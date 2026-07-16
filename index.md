@@ -202,8 +202,7 @@ We'll highlight recent work in decision-focussed ML training over combinatorial 
 | 15:40-16:10 | <span style="color:#b35c00;">**Coffee break**</span> |
 | 16:10-16:30 | **A priori knowledge for learning combinations of heuristics for CSPs** [[PDF]({{ site.baseurl }}/papers/2026/paper8.pdf)]<br>*Anastasia Paparrizou, Michael Sioutis, Yoan Thomas, Christian Bessiere* |
 | 16:30-16:50 | **KissatEvolve: Controllable and Scalable Synthesis of SAT Heuristics with Densely Annotated Memory Bank** [[PDF]({{ site.baseurl }}/papers/2026/paper10.pdf)]<br>*Meru Gopalan, Jialin Lu, Jialin Song, Shimin Zhang, Hieu Nguyen, Wuyang Chen, Vijay Ganesh* |
-| 16:50-17:10 | **Revealing the limits of Machine Learning for Satisfiability Testing: a dataset for learning minimal moves** [[PDF]({{ site.baseurl }}/papers/2026/paper2.pdf)]<br>*Laurent Simon* |
-| 17:10-18:00 | <span style="color:#b35c00;">**Panel discussion**</span> |
+| 16:50-17:40 | <span style="color:#b35c00;">**Panel discussion**</span> |
 
 <!-- | Time | Event | Speaker |
 |------|-------|---------|
