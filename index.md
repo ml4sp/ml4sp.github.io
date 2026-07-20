@@ -196,7 +196,7 @@ We'll highlight recent work in decision-focussed ML training over combinatorial 
 | 12:00-12:20 | **Do LLMs Scale on Inductive Proofs? A Controlled Study of Elementary Arithmetical Proofs** [[PDF]({{ site.baseurl }}/papers/2026/paper11.pdf)]<br>*Risako Ando, Koji Mineshima, Mitsuhiro Okada* |
 | 12:20-12:40 | **Learning Better Representations From Less Data For Propositional Satisfiability** [[PDF]({{ site.baseurl }}/papers/2026/paper5.pdf)]<br>*Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner* |
 | 12:40-14:00 | <span style="color:#b35c00;">**Lunch**</span> |
-| 14:00-15:00 | **Invited talk:** Tias Guns<br>*Human-Aware Technology for Combinatorial Optimisation* |
+| 14:00-15:00 | **Invited talk:** Tias Guns<br>*Human-Aware Technology for Combinatorial Optimisation* [[slides]({{ site.baseurl }}/slides/2026/tias_chatopt_learning.pdf)] |
 | 15:00-15:20 | **Predicting Assignments of MaxSAT Variables with Graph Neural Networks** [[PDF]({{ site.baseurl }}/papers/2026/paper3.pdf)]<br>*Jonathan Oliva, Peter Nightingale, Felix Ulrich-Oltean* |
 | 15:20-15:40 | **Caching and Batching for Neural Clause Selection in Saturation-Based Theorem Proving** [[PDF]({{ site.baseurl }}/papers/2026/paper9.pdf)]<br>*Alexander Pluska, Florian Zuleger* |
 | 15:40-16:10 | <span style="color:#b35c00;">**Coffee break**</span> |
