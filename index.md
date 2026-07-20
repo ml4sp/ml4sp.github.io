@@ -192,7 +192,7 @@ We'll highlight recent work in decision-focussed ML training over combinatorial 
 | 10:30-11:00 | <span style="color:#b35c00;">**Coffee break**</span> |
 | 11:00-11:20 | **An LLM-based Recommendation System for PVS** [[PDF]({{ site.baseurl }}/papers/2026/paper7.pdf)]<br>*Nikson Bernardes Fernandes Ferreira, Mariano Miguel Moscato, Mauricio Ayala-Rincon* |
 | 11:20-11:40 | **Neural Local Search Enhanced with Knowledge Compilation** [[PDF]({{ site.baseurl }}/papers/2026/paper4.pdf)]<br>*Alexandre Dubray, Hélène Verhaeghe, Quentin Cappart, Siegfried Nijssen* |
-| 11:40-12:00 | **Algorithm Selection with Zero Domain Knowledge via Text Embeddings** [[PDF]({{ site.baseurl }}/papers/2026/paper1.pdf)][video](https://www.youtube.com/watch?v=QvCPtA8VgL0)<br>*Stefan Szeider* |
+| 11:40-12:00 | **Algorithm Selection with Zero Domain Knowledge via Text Embeddings** [[PDF]({{ site.baseurl }}/papers/2026/paper1.pdf)][[video]](https://www.youtube.com/watch?v=QvCPtA8VgL0)<br>*Stefan Szeider* |
 | 12:00-12:20 | **Do LLMs Scale on Inductive Proofs? A Controlled Study of Elementary Arithmetical Proofs** [[PDF]({{ site.baseurl }}/papers/2026/paper11.pdf)]<br>*Risako Ando, Koji Mineshima, Mitsuhiro Okada* |
 | 12:20-12:40 | **Learning Better Representations From Less Data For Propositional Satisfiability** [[PDF]({{ site.baseurl }}/papers/2026/paper5.pdf)]<br>*Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner* |
 | 12:40-14:00 | <span style="color:#b35c00;">**Lunch**</span> |
